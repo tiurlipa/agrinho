@@ -1,0 +1,28 @@
+header{
+   background-color:rgb(0, 0, 0);
+   text-align: center;
+}
+.tenis{
+   display: flex;
+}
+.foto{
+   width: 400px;
+   height: 400px;
+}
+.lugar{
+   text-align: center;
+   padding-left: 2%;
+}
+.foto1{
+   width: 400px;
+   height: 400px;
+}
+body{
+   background-color: black;
+}
+h1{
+   color: white;
+   font-size: 40px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   margin: 10px;
+}
